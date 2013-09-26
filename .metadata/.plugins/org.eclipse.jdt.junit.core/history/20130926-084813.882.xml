@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testrun name="Rerun recfun.CountChangeSuite.countChange: example given in instructions" project="progfun-recfun" tests="1" started="4" failures="0" errors="0" ignored="0">
+  <testcase name="countChange: example given in instructions" classname="recfun.CountChangeSuite" time="0.001"/>
+  <testsuite name="Unrooted Tests" time="0.008">
+    <testcase name="countChange: sorted CHF" classname="recfun.CountChangeSuite" time="0.008"/>
+    <testcase name="countChange: no pennies" classname="recfun.CountChangeSuite" time="0.0"/>
+    <testcase name="countChange: unsorted CHF" classname="recfun.CountChangeSuite" time="0.001"/>
+  </testsuite>
+</testrun>

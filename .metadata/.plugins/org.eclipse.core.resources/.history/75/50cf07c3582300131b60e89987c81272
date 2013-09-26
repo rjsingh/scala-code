@@ -1,0 +1,9 @@
+package greeter
+
+object Hello extends App {
+  
+  def and(x :Boolean, y :Boolean): Boolean = {
+		  if(x == True) if (y == True) True else False else False
+  }
+	println("hello, world")
+}
